@@ -1,0 +1,17 @@
+{
+  "name": "slack-avatar-switcher",
+  "version": "1.0.0",
+  "description": "Switch between a selection of images on a set interval",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "node src/index.js"
+  },
+  "repository": "https://github.com/SquarePear/slack-avatar-switcher",
+  "author": "Jeffrey Harmon",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^5.12.0",
+    "pngjs": "^5.0.0"
+  }
+}
