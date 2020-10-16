@@ -11,7 +11,6 @@
   "author": "Jeffrey Harmon",
   "license": "MIT",
   "dependencies": {
-    "@slack/web-api": "^5.12.0",
-    "pngjs": "^5.0.0"
+    "@slack/web-api": "^5.12.0"
   }
 }
